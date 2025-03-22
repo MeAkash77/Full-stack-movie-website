@@ -26,7 +26,7 @@ Welcome to Beatstreet, a free website where you can listen to your favorite musi
 
 ## Getting Started
 
-To use the Music Streaming Website, simply click on the following link: [Beatstreet](https://full-stack-movie-website.vercel.app/)
+To use the Music Streaming Website, simply click on the following link: [Beatstreet](https://akash77-full-stack-movie-website.vercel.app/)
 
 ## Screenshots
 
